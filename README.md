@@ -40,7 +40,7 @@ MarkDown 내용 정리
 Click [My Git Hub](https://github.com/Kimyonghwann/AI_Project_2025_01)
 
 <!-- Image -->
-![image](https://i.namu.wiki/i/lXRTylN9qc_yZ4ZL6vPz7diTqM6oynS88WK9a8QRdynKuSh1ync0Mxl4eleL0N8DED70R4mRUbFFMVm1PmmLkeeQafUqtNdqPiB8KLf8i159xxrr9fKXNu-MrbUoMF-KKGfLeb91I94YHAEye1ImtQ.webp)
+![image](https://github.com/Kimyonghwann/AI_Project_2025_01/blob/main/image/00044-407764822.png?raw=true)
 
 <!-- Table -->
 
