@@ -37,10 +37,10 @@ MarkDown 내용 정리
 3. 숫자 3
 
 <!-- Link -->
-Click [My Git Hub](https://github.com/내주소)
+Click [My Git Hub](https://github.com/Kimyonghwann/AI_Project_2025_01)
 
 <!-- Image -->
-![image]()
+![image](https://i.namu.wiki/i/lXRTylN9qc_yZ4ZL6vPz7diTqM6oynS88WK9a8QRdynKuSh1ync0Mxl4eleL0N8DED70R4mRUbFFMVm1PmmLkeeQafUqtNdqPiB8KLf8i159xxrr9fKXNu-MrbUoMF-KKGfLeb91I94YHAEye1ImtQ.webp)
 
 <!-- Table -->
 
